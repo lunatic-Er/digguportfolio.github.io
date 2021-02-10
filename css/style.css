@@ -99,8 +99,12 @@ header{
 	margin-top: 0;
 }
 
+ h4{
+	background-color: #2F3061;
+	color: #F7FFF7;
 
-/*work experience
+}
+	/*work experience
 ***************************/
 .work-experience{
 	background-color: #A1C6D7;
